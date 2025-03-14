@@ -1,5 +1,5 @@
 # Analisis Sentimen Ulasan Shopee Menggunakan Deep Learning
-
+![Word Cloud](wordcloudshopee.jpg)
 ## Pengantar: Membuka Rahasia di Balik Ulasan Pengguna
 Dalam dunia e-commerce yang berkembang pesat seperti saat ini, ulasan pelanggan memegang peran yang sangat penting untuk menjaga daya saing bisnis. Platform Shopee, sebagai salah satu marketplace terbesar di Asia Tenggara, mendapatkan ribuan ulasan setiap harinya. Namun, apakah Anda pernah merasa penasaran tentang apa yang sebenarnya dikatakan pelanggan Anda tentang produk dan layanan yang ditawarkan? Apakah mereka merasa puas dengan pembelian mereka, atau justru kecewa dengan pengalaman yang diterima? 🌟
 
